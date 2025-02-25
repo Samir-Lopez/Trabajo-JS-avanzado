@@ -12,16 +12,16 @@ header {
 }
 
 h1 {
-    font-family: "Planet Joust 3D";
+    font-family: "Planet Joust 3D Regular";
     font-size: 7rem;
 }
 
-/* @font-face{
+@font-face{
     font-family: 'Planet Joust 3D Regular';
     font-style: normal;
     font-weight: normal;
     src: local('Planet Joust 3D Regular'), url('/font/PlanetJoust3D-7Bdw4.woff') format('woff');
-} */
+}
 
 img {
     width: 100%;
