@@ -1,0 +1,54 @@
+.header-index {
+    position: relative;
+    height: 75vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.header-index .bg-arcade {
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+.header-index .nav-container {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.header-index .logo-arcade {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+}
+
+.header-index nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-index .nav-page {
+    color: white;
+    margin: 0 20px;
+    font-size: 1.3rem;
+    cursor: pointer;
+}
+
+.header-index h1 {
+    color: black;
+    text-align: center;
+    max-width: 500px;
+    cursor: pointer;
+}
+
+.header-index h1:hover {
+    color: white;
+}

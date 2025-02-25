@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+    font-family: Roboto, Arial;
+}
+
+header {
+    padding: 30px;
+    width: 100%;
+}
+
+h1 {
+    font-family: "Planet Joust 3D";
+    font-size: 7rem;
+}
+
+/* @font-face{
+    font-family: 'Planet Joust 3D Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Planet Joust 3D Regular'), url('/font/PlanetJoust3D-7Bdw4.woff') format('woff');
+} */
+
+img {
+    width: 100%;
+    height: 100%;
+}
