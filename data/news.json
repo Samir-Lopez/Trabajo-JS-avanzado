@@ -1,20 +1,23 @@
 [
     {
-        "img": "../images/news/",
-        "title": "Sample Title",
-        "description": "Sample Description",
-        "url": "#"
+        "id": "1",
+        "img": "../images/news/new1.png",
+        "title": "The Revival of Retro Game Collecting in the Digital Age",
+        "description": "Discover the thriving world of retro game collecting in the digital age!",
+        "url": "https://vocal.media/gamers/retro-resurgence-the-revival-of-retro-game-collecting-in-the-digital-age"
     },
     {
-        "img": "../images/news/",
-        "title": "Sample Title",
-        "description": "Sample Description",
-        "url": "#"
+        "id": "2",
+        "img": "../images/news/new2.png",
+        "title": "Retro Gaming Renaissance: Nostalgia, Remakes, and the Preservation of Gaming History",
+        "description": "Today’s digitally advanced age is characterized by the development of games with sophisticated graphics and hyper-realistic physics.",
+        "url": "https://www.cgmagonline.com/articles/retro-gaming-renaissance-nostalgia/"
     },
     {
-        "img": "../images/news/",
-        "title": "Sample Title",
-        "description": "Sample Description",
-        "url": "#"
+        "id": "3",
+        "img": "../images/news/new3.png",
+        "title": "‘Metal Miracle’ Brings New Adventure To Nintendo Game Boy Fans In 2025",
+        "description": "Like probably most people, I stopped tracking new releases for Game Boy Color at least 20 years ago, but my love for that iconic family of Nintendo handhelds never waned.",
+        "url": "https://www.forbes.com/sites/jasonevangelho/2025/01/24/wait-theres-a-new-nintendo-game-boy-color-title-being-released/"
     }
 ]

@@ -12,7 +12,7 @@ header {
 }
 
 h1 {
-    font-family: 'Planet Joust 3D Regular', sans-serif;
+    font-family: 'Planet Joust 3D Regular', Roboto;
     font-size: 7rem;
 }
 
@@ -26,4 +26,10 @@ h1 {
 img {
     width: 100%;
     height: 100%;
+}
+
+.container {
+    width: 100%;
+    height: fit-content;
+    padding: 50px;
 }
